@@ -3,28 +3,28 @@
 </p>
 
 <h1 align="center">laika-homelab</h1>
-<p align="center"><i>De cada container conforme sua capacidade, para cada container conforme sua necessidade (de RAM).</i></p>
+<p align="center"><i>de cada container conforme sua capacidade, pra cada container conforme a necessidade (de RAM, obvio)</i></p>
 
 ---
 
-## O que é isso?
+## que que é isso
 
-Um homelab pessoal. Roda serviços, hospeda coisas, existe — em algum lugar, em algum hardware, atrás de algumas camadas que você não vai encontrar aqui.
+um homelab meu. roda uns serviço, hospeda umas coisa, existe. em algum lugar, em algum hardware, atras de umas camada que vc não vai achar aqui não.
 
-Batizada em homenagem à [Laika](https://pt.wikipedia.org/wiki/Laika), a cadela que a URSS mandou pro espaço antes de qualquer humano. Ambição parecida, escala menor: aqui a gente só manda `containers` pro Docker. Ninguém reentra na atmosfera, mas às vezes o Nginx cai.
+nome é homenagem a [Laika](https://pt.wikipedia.org/wiki/Laika), a cadela que a URSS mandou pro espaço antes de qualquer humano ir. aqui a ambição é bem menor, só mando container pro Docker mesmo. ninguem reentra na atmosfera mas de vez em quando o nginx cai.
 
-## Manifesto (não muito sério)
+## manifesto (não leva muito a sério não)
 
-- **Meios de produção**: nas mãos do proletariado (eu), não alugados por hora de uma cloud capitalista.
-- **Distribuição de recursos**: de cada container conforme sua capacidade, para cada container conforme sua necessidade — desde que caiba no `mem_limit`.
-- **Plano quinquenal**: geralmente sobrevive até o próximo `docker compose down`.
-- **Inteligência Artificial**: ajuda a manter tudo de pé, sugere comandos, escreve README engraçadinho. O Grande Irmão aqui é só um agente de terminal bem-intencionado.
-- **Capitalismo**: ainda é ele quem paga a conta de luz no fim do mês. A dialética tem seus limites.
+- **meios de produção**: na mão do proletariado (eu), não alugado por hora de cloud capitalista
+- **recurso**: de cada container conforme a capacidade, pra cada container conforme a necessidade. desde que caiba no `mem_limit`, obvio
+- **plano quinquenal**: geralmente dura até o proximo `docker compose down`
+- **IA**: ajuda a manter tudo de pé, sugere comando, ate escreveu esse readme aqui (e sim, ficou meio torto de proposito). grande irmão aqui é só um agente de terminal bem intencionado
+- **capitalismo**: continua sendo ele quem paga a conta de luz no fim do mes. a dialética tem limite
 
-## Serviços
+## serviços
 
-Tem uns rodando por aí. O quê, onde, e como entrar continuam *classificados* — não por vergonha, só porque camarada nenhum da internet precisa saber o layout da minha rede.
+tem uns rodando ai. o que, onde e como entrar continua meio classificado. não é vergonha não, só n precisa camarada nenhum da internet sabendo o layout da minha rede
 
 ---
 
-<p align="center"><sub>🐕🚀 lançada em órbita — sem plano de reentrada</sub></p>
+<p align="center"><sub>🐕🚀 lançada em orbita, sem plano de reentrada</sub></p>

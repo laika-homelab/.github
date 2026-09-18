@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/laika-mascot-rounded.gif" width="120" alt="laika" />
+  <img src="laika-mascot-rounded.gif" width="120" alt="laika" />
 </p>
 
 <h1 align="center">laika-homelab</h1>
